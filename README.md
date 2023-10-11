@@ -74,7 +74,7 @@ cv2.destroyAllWindows()
 
 ### Display the Dilated Image:
 ![output](o4.png)
-![output](o5)
+![output](o5.png)
 
 
 ## Result
